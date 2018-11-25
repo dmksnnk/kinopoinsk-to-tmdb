@@ -1,0 +1,5 @@
+*.git
+*.xls
+*.csv
+*.vscode
+venv
